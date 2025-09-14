@@ -8,8 +8,7 @@
   🤖AI and Machine Learning<br/>
   My handels {x/Twitter:https://x.com/kayode_aki76318}<br/>
 
-## Hey 👋, I'm Akinpelu Kayode   
-  <h1 align="center">Hey 👋What's Up?<br>I'm Kayode</h1>
+<h1 align="center">Hey 👋What's Up?<br>I'm Kayode</h1>
 
 ###
 
