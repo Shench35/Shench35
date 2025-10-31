@@ -5,7 +5,7 @@
   🧠Backend developer<br/>
   🥷Cybersecurity<br/>
   🐍Python Developer<br/>
-  🤖AI and Machine Learning<br/>
+  🤖AI and Machine Learning Agent<br/>
   My handels {x/Twitter:https://x.com/kayode_aki76318}<br/>
 
 <h1 align="center">Hey 👋What's Up?<br>I'm Kayode</h1>
