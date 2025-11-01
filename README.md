@@ -1,11 +1,10 @@
 ## Hi i'm AKINPELU SHUAIB KAYODE 
-
-
+s
   💻Compuer science student at the university of Ibadan<br/>
   🧠Backend developer<br/>
   🥷Cybersecurity<br/>
   🐍Python Developer<br/>
-  🤖AI and Machine Learning Agent<br/>
+  🤖AI and Machine Learning Agents<br/>
   My handels {x/Twitter:https://x.com/kayode_aki76318}<br/>
 
 <h1 align="center">Hey 👋What's Up?<br>I'm Kayode</h1>
