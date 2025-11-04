@@ -1,5 +1,4 @@
 ## Hi i'm AKINPELU SHUAIB KAYODE 
-s
   💻Compuer science student at the university of Ibadan<br/>
   🧠Backend developer<br/>
   🥷Cybersecurity<br/>
