@@ -4,9 +4,9 @@
   🥷Cybersecurity<br/>
   🐍Python Developer<br/>
   🤖AI & Machine Learning Agents<br/>
-  My handels {x/Twitter:https://x.com/kayode_aki76318}<br/>
+  My handels{x/Twitter:https://x.com/kayode_aki76318}<br/>
 
-<h1 align="center">Hey 👋What's Up?<br>I'm Kayode</h1>
+<h1 align="center">Hey👋What's Up?<br>I'm Kayode</h1>
 
 ###
 
