@@ -6,7 +6,7 @@ import webbrowser
 location_name = input("Enter name of location: ")
 
 
-geolocator = OpenCage(api_key="07589c2cfabf4baea61c8085ec6108f5")
+geolocator = OpenCage()
 location = geolocator.geocode(location_name)
 
 if location:
