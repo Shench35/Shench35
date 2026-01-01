@@ -2,11 +2,15 @@ import folium
 from geopy.geocoders import OpenCage
 import os
 import webbrowser
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 location_name = input("Enter name of location: ")
 
 
-geolocator = OpenCage()
+geolocator = OpenCage(os.environ.get("API_KEY")
 location = geolocator.geocode(location_name)
 
 if location:
@@ -26,3 +30,4 @@ if location:
     webbrowser.open("file://" + map_file)
 else:
     print("Location not found. Try again.")
+
